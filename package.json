@@ -1,0 +1,25 @@
+{
+  "name": "learntypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "puneeth",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.1",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.3",
+    "@types/lodash": "^4.14.182",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "description": ""
+}
